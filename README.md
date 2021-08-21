@@ -7,7 +7,7 @@
 
 - #### ②将数据放到'data/'目录下
 
-- #### ③：将main.py文件中的data_file改成你的数据所在的地址，然后运行main.py文件
+- #### ③将main.py文件中的data_file改成你的数据所在的地址，然后运行main.py文件
 
 -----
 
